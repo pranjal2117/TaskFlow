@@ -1,0 +1,12 @@
+
+# Dependencies and build files
+frontend/node_modules/
+frontend/dist/
+backend/target/
+
+# Local database credentials
+backend/src/main/resources/application.properties
+
+# Environment files
+.env
+.env.*
